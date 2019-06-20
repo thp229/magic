@@ -3,28 +3,6 @@ import random as r
 ##
 types = ["fire","thunder","ice","earth","wind","aquatic","shadow","holy","toxic","dragon","astral","metal","nature",None]
 
-
-#abilities
-# ={
-#versatility
-#deep wounds
-#airborne
-#stagger
-
-#ephemeral touch
-#divine blessing
-#adaptability
-#tidewwalking
-#withering touch
-#chaotic winds
-#enrage
-#nimble
-#fear
-#molten
-
-#}
-
-
 moves = {"attack":{
 #attack format name, [attack power, types, magic == 1 physical == 0 ]
 #break down moves into classes

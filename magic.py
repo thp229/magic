@@ -3,6 +3,8 @@ import random as r
 ##
 types = ["fire","thunder","ice","earth","wind","aquatic","shadow","holy","toxic","dragon","astral","metal","nature",None]
 
+#hello
+#develop
 
 #abilities
 # ={

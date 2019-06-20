@@ -34,8 +34,6 @@ moves = {"attack":{
 #note that with spirits::
 #index 2 = HP, 3 = Strength, 4 = Defense, 5 = Attune, 6 = Resist, 7 = Agility
 
-#change the spirits to dictionaries rather than arrays
-
 spirits = {
 "cold scary ghost":[types[2],types[6],220,180,130,300,150,340],
 "not charmander":[types[0],types[len(types)-1],250,200,150,300,160,320],
